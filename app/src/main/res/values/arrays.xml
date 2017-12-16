@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="cirens_icons">
+        <item>@drawable/animal_attack</item>
+        <item>@drawable/armed_robbery</item>
+        <item>@drawable/bike_robbery</item>
+        <item>@drawable/building_collapse</item>
+        <item>@drawable/car_accident</item>
+        <item>@drawable/car_theft</item>
+        <item>@drawable/drowning</item>
+        <item>@drawable/fire</item>
+        <item>@drawable/flood</item>
+        <item>@drawable/gang_fight</item>
+        <item>@drawable/kidnapping</item>
+        <item>@drawable/labour</item>
+        <item>@drawable/pick_pocket</item>
+        <item>@drawable/rape</item>
+        <item>@drawable/ship_wreck</item>
+        <item>@drawable/snake_bite</item>
+        <item>@drawable/street_fight</item>
+    </array>
+    <string-array name="cirens">
+        <item>Animal Attack</item>
+        <item>Armed Robbery</item>
+        <item>Bike Robbery</item>
+        <item>Building Collapse</item>
+        <item>Car Accident</item>
+        <item>Car Theft</item>
+        <item>Drowning</item>
+        <item>Fire</item>
+        <item>Flood</item>
+        <item>Gang Fight</item>
+        <item>Kidnapping</item>
+        <item>Labour</item>
+        <item>Pick Pocket</item>
+        <item>Rape</item>
+        <item>Ship Wreck</item>
+        <item>Snack Bite</item>
+        <item>Street Fight</item>
+    </string-array>
+</resources>
